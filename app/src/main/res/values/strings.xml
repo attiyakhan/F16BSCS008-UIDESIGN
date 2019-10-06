@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">GlitterLuck</string>
+    <string name="text">SIGN IN|SIGN UP</string>
+    <string name="text1">ENTER FULL NAME</string>
+    <string name="text2">ENTER EMAIL</string>
+    <string name="text3">ENTER PASSWORD</string>
+    <string name="text4">CONFIRM PASSWORD</string>
+    <string name="text5">I AGREE TO TERMS AND CONDITIONS</string>
+    <string name="text6">SIGN UP</string>
+    <string name="text7">ALREADY HAVE AN ACCOUNT?</string>
+    <string name="text8">LOGIN</string>
+    <string name="text9">ENTER EMAIL</string>
+    <string name="text10">FORGOT YOUR PASSWORD?</string>
+    <string name="text11">SIGN IN</string>
+    <string name="text12">FORGOT PASSWORD</string>
+    <string name="text13">CREATE ACCOUNT</string>
+    <string name="text14">ENTER YOUR EMAIL ADDRESS AND WE\'LL SEND YOU A LINK  TO RESET YOUR PASSWORD.</string>
+    <string name="text15">RESET PASSWORD</string>
+
+</resources>
